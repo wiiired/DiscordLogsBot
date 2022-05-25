@@ -12,7 +12,7 @@ this can be used to keep track of messages\
 from our server in case we need to check if someone\
 sent something inappropriate/against the rules.\
 I plan to add more functions such as just log\
-messages from a specific role/channel.\
+messages from a specific role/channel.
 
 ---
 
