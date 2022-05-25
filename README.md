@@ -1,1 +1,3 @@
-# 🤍 Discord Logs Bot
+<h1 align="center">
+  DiscordLogBot 😼
+</h1>
