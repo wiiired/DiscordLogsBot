@@ -16,5 +16,12 @@ messages from a specific role/channel.
 
 ---
 
+## 🐱 〢 Extra
+
+You can add commands if you want\
+Just use ./cogs folder :3
+
+---
+
 ## Logs example
 <img src="https://cdn.discordapp.com/attachments/959931793597943839/979149073586217020/unknown.png" height="75%" width="75%"/>
