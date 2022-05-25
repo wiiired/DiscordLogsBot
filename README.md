@@ -1,1 +1,1 @@
-# DiscordLogsBot
+# 🤍 Discord Logs Bot
