@@ -1,12 +1,12 @@
 <h1 align="center">
-  DiscordLogBot 😼
+  DiscordLogsBot 😼
 </h1>
 
 ---
 
 ## 😽 〢 Info
 
-DiscordLogBot is a bot that logs all\
+DiscordLogsBot is a bot that logs all\
 messages sent to all servers the bot is on,\
 this can be used to keep track of messages\
 from our server in case we need to check if someone\
